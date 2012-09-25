@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<PTAMM_Model_DB version="1.0">
+  <Category name="Category A" image="Cat_A/A.png">
+    <Model name="Cone" image="cone.png" dir="Cat_A/Cone" file="cone.3ds" roll="0" pitch="0" yaw="0" />
+    <Model name="Cube" image="cube.png" dir="Cat_A/Cube" file="cube.3ds" roll="0" pitch="0" yaw="0" />
+    <Model name="Sphere" image="sphere.png" dir="Cat_A/Sphere" file="sphere.3ds" roll="0" pitch="0" yaw="0" />
+    <Model name="Torus" image="torus.png" dir="Cat_A/Torus" file="torus.3ds" roll="0" pitch="0" yaw="0" />
+  </Category>
+  <Category name="Category B" image="Cat_B/B.png">
+    <Model name="House" image="house.png" dir="Cat_B/House" file="ourscamp1.3ds" roll="0" pitch="0" yaw="0" /> 
+    <Model name="Gund1" image="gund1.png" dir="Cat_B/Gund1" file="gund1.3ds" roll="0" pitch="0" yaw="0" />  
+    <Model name="GundHigh" image="gund1.png" dir="Cat_B/GundHigh" file="gundHigh.3ds" roll="0" pitch="0" yaw="0" /> 
+	<Model name="Google" image="google.png" dir="Cat_B/Google" file="google.3ds" roll="0" pitch="0" yaw="0" /> 
+	<Model name="WindowBlinds" image="windowblinds.png" dir="Cat_B/WindowBlinds" file="windowblinds.3ds" roll="0" pitch="0" yaw="0" /> 
+	<Model name="VoroPorn" image="voroporn.png" dir="Cat_B/VoroPorn" file="voroporn.3ds" roll="0" pitch="0" yaw="0" /> 
+  </Category>
+  <Category name="Category C" image="Cat_C/C.png">
+  </Category>
+  <Category name="Category D" image="Cat_D/D.png">
+  </Category>
+  <Category name="Category E" image="Cat_E/E.png">
+  </Category>
+</PTAMM_Model_DB>
+

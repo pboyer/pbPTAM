@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>DummyStaticLibrary.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>pbPTAM.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>pbPTAM_doc.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>D05C7B3C15090AA900327F72</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D0D3D0E61526182700795D39</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D0D3D1B315261D8300795D39</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D0D3D1C715261E7E00795D39</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
